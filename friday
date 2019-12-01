@@ -1,9 +1,0 @@
-
-git config --global user.name "Prasad"
-git config --global user.name "DevOps"
--------------------------------------------------------------------
-amend
----------
-git commit --amend -m "label"
-
-git revert cid
